@@ -2,7 +2,7 @@
 Soolah | Smit Dudhat. 
 
 # Links
-<b>Live Link:</b> <a href="soolah.netlify.app" target="_blank">soolah.netlify.app</a>
+<b>Live Link:</b> <a href="soolah-demo.netlify.app" target="_blank">soolah-demo.netlify.app</a>
 
 # More Info
 <b>Author:</b> Soolah.
